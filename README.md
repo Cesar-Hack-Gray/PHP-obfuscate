@@ -6,6 +6,7 @@
 
 # Así se ve el script ofuscado 
 ![Screenshot_20190329-210902~01](https://user-images.githubusercontent.com/46208706/55270686-9c5d9a80-5267-11e9-900c-ed1c82e67e15.png)
+# los archivos ofuscados son aun ejecutables en cualquier terminal linux
 
 # sigueme en YouTube
 # https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
